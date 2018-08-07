@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="29" viewBox="0 0 174 29">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#FEFFFF" font-family="Baloo-Regular, Baloo" font-size="16" letter-spacing=".3" transform="translate(1 1)">
+            <tspan x="47" y="18">Pendekar Desain</tspan>
+        </text>
+        <g transform="translate(1 1)">
+            <circle cx="13.5" cy="13.5" r="13.5" stroke="#FFF"/>
+            <text fill="#FEFFFF" font-family="Baloo-Regular, Baloo" font-size="16" letter-spacing=".571">
+                <tspan x="3" y="18">PD</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
